@@ -1,8 +1,8 @@
 /* Eyes Green -Theme for Typora
 author:AqiMake
-date: 2025-02-03
+date: 2025-02-04
 homepage: https://github.com/AqiMake/typora-eyes-green-theme
-version: 1.0.0
+version: 1.0.1
 based on: default GitHub Theme from typora.io
  */
 :root {
@@ -263,10 +263,20 @@ table td:last-child {
 }
 
 .md-fences,
-code,
 tt {
     border: 1px solid #e7eaed;
     background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    color: #57a266;
+    font-weight: bolder;
+    border: 1px solid #e7eaed;
+    background: rgb(209, 236, 222);
     border-radius: 3px;
     padding: 0;
     padding: 2px 4px 0px 4px;
@@ -284,7 +294,6 @@ code {
     padding-top: 8px;
     padding-bottom: 6px;
 }
-
 
 .md-task-list-item > input {
   margin-left: -1.3em;
