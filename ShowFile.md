@@ -1,6 +1,6 @@
 # Eyes Green
 
-bold
+**bold**
 
 *italic*
 
@@ -83,3 +83,4 @@ mindmap
       Pen and paper
       Mermaid
 ```
+
