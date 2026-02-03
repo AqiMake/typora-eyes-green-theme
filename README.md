@@ -26,6 +26,7 @@ Designed and tested on Windows 11. Not fully tested yet, but should run on macOS
 
 ## Infomation
 - Authour：AqiMake
-- HomePage：[AqiMake/typora-eyes-green-theme: Website for Typora themes](https://github.com/AqiMake/typora-eyes-green-theme)
+- HomePage：[AqiMake/typora-eyes-green-theme](https://github.com/AqiMake/typora-eyes-green-theme)
+
 
 
