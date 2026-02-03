@@ -30,4 +30,5 @@
 ## 信息
 
 - 作者：AqiMake
-- 项目主页：[AqiMake/typora-eyes-green-theme: Website for Typora themes](https://github.com/AqiMake/typora-eyes-green-theme)
+- 项目主页：[AqiMake/typora-eyes-green-theme](https://github.com/AqiMake/typora-eyes-green-theme)
+
