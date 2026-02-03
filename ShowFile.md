@@ -1,5 +1,10 @@
 # Eyes Green
 
+```note
+Select the 'Green Eyes' theme from the menu and use this file to view the 'Green Eyes' effect.
+在菜单中选择“Green Eyes”主题，并使用该文件浏览“Green Eyes”的效果。
+```
+
 **bold**
 
 *italic*
@@ -20,6 +25,7 @@ Text.
 - the 3th inordered list item
 
 ### Ordered list
+
 1. the 1st ordered list item
 2. the 2nd ordered list item
 3. the 3th ordered list item
@@ -42,6 +48,7 @@ public class Main {
 When we compare two different strings, we should use `equals()` methods.
 
 ## Cite
+
 > text
 > - 1
 > - 2
@@ -83,4 +90,3 @@ mindmap
       Pen and paper
       Mermaid
 ```
-
