@@ -1,5 +1,5 @@
 /* Eyes Green -Theme for Typora
-version: 2.1.0
+version: 2.1.1
 author:AqiMake
 finish-date: 2026-04-25
 homepage: https://github.com/AqiMake/typora-eyes-green-theme
@@ -13,7 +13,7 @@ based on: typora-default-themes (https://github.com/typora/typora-default-themes
     --control-text-color: #777;
     --active-file-bg-color: #D1ECDE;
     --active-file-border-color: #57A266;
-    --code-block-bg-color: #d9e8dd;
+    --code-block-bg-color: #e0e9e2;
     --text-selection-bg-color: #C9E3CF;
 }
 
